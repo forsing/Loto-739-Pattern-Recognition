@@ -1503,7 +1503,7 @@ Ukupno mogućih kombinacija: 15,380,937
 ==============================================================================
 Obrada: Loto
 ==============================================================================
-CSV: /Users/4c/Desktop/GHQ/data/loto7_4680_k71_loto_2962.csv
+CSV: /data/loto7_4680_k71_loto_2962.csv
 Broj redova: 2962
 Prvi red je najstariji.
 Poslednji red je najnoviji.
@@ -1524,7 +1524,7 @@ Završna NEXT obuka nad kompletnom istorijom...
 ==============================================================================
 Obrada: Loto Plus
 ==============================================================================
-CSV: /Users/4c/Desktop/GHQ/data/loto7_4680_k71_loto_plus_1718.csv
+CSV: /data/loto7_4680_k71_loto_plus_1718.csv
 Broj redova: 1718
 Prvi red je najstariji.
 Poslednji red je najnoviji.
@@ -1550,7 +1550,7 @@ KONAČNE NEXT PREDIKCIJE
 ==============================================================================
 Loto
 ==============================================================================
-NEXT: 11, 17, 21, 23, 26, 27, 33
+NEXT: 11, x, 21, y, 26, z, 33
 CSV redova: 2962
 
 HRONOLOŠKA PROVERA
@@ -1606,7 +1606,7 @@ NE — model nije dokazao statistički pouzdanu i vremenski stabilnu prednost na
 ==============================================================================
 Loto Plus
 ==============================================================================
-NEXT: 01, 06, 08, 09, 26, 27, 34
+NEXT: 01, x, 08, y, 26, z, 34
 CSV redova: 1718
 
 HRONOLOŠKA PROVERA
