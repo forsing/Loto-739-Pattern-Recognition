@@ -42,11 +42,11 @@ from scipy.stats import energy_distance, wasserstein_distance
 SEED = 39
 
 LOTO_CSV = Path(
-    "/Users/4c/Desktop/GHQ/data/loto7_4680_k71_loto_2962.csv"
+    "/data/loto7_4680_k71_loto_2962.csv"
 )
 
 LOTO_PLUS_CSV = Path(
-    "/Users/4c/Desktop/GHQ/data/loto7_4680_k71_loto_plus_1718.csv"
+    "/data/loto7_4680_k71_loto_plus_1718.csv"
 )
 
 BROJ_KUGLICA = 39
@@ -1291,7 +1291,7 @@ Ukupno retirement combinations: 15,380,937
 ==============================================================================
 Obrada: Loto
 ==============================================================================
-CSV: /Users/4c/Desktop/GHQ/data/loto7_4680_k71_loto_2962.csv
+CSV: /data/loto7_4680_k71_loto_2962.csv
 Broj redova: 2962
 Zamrznuti holdout: 400
 Causal Matrix Profile...
@@ -1305,7 +1305,7 @@ Zamrznuta holdout provera...
 ==============================================================================
 Obrada: Loto Plus
 ==============================================================================
-CSV: /Users/4c/Desktop/GHQ/data/loto7_4680_k71_loto_plus_1718.csv
+CSV: /data/loto7_4680_k71_loto_plus_1718.csv
 Broj redova: 1718
 Zamrznuti holdout: 258
 Causal Matrix Profile...
@@ -1323,7 +1323,7 @@ KONAČNE NEXT PREDIKCIJE
 ==============================================================================
 Loto
 ==============================================================================
-NEXT: 09, 21, 22, 23, 26, 28, 33
+NEXT: 09, x, 22, y, 26, z, 33
 CSV redova: 2962
 
 HRONOLOŠKA PROVERA
@@ -1369,7 +1369,7 @@ NE — nije dokazana statistički pouzdana i vremenski stabilna prednost nad slu
 ==============================================================================
 Loto Plus
 ==============================================================================
-NEXT: 02, 04, 09, 11, 26, 34, 38
+NEXT: 02, x, 09, y, 26, z, 38
 CSV redova: 1718
 
 HRONOLOŠKA PROVERA
